@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/voicer/static/css/main.5f361e03.chunk.css",
+    "main.js": "/voicer/static/js/main.eff130e4.chunk.js",
+    "main.js.map": "/voicer/static/js/main.eff130e4.chunk.js.map",
+    "runtime-main.js": "/voicer/static/js/runtime-main.2ca009fd.js",
+    "runtime-main.js.map": "/voicer/static/js/runtime-main.2ca009fd.js.map",
+    "static/js/2.763b34e5.chunk.js": "/voicer/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/voicer/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/voicer/index.html",
+    "precache-manifest.27486e3e97ffcec4fdb93ed8ad6dbc72.js": "/voicer/precache-manifest.27486e3e97ffcec4fdb93ed8ad6dbc72.js",
+    "service-worker.js": "/voicer/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/voicer/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/voicer/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/voicer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ca009fd.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.eff130e4.chunk.js"
+  ]
+}
